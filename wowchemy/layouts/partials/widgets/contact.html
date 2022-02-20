@@ -91,6 +91,13 @@
     </li>
     {{ end }}
 
+    {{ with $data.directions }}
+    <li>
+      <i class="fa-li fas fa-compass fa-2x" aria-hidden="true"></i>
+      <span>{{ . | markdownify | emojify }}</span>
+    </li>
+    {{ end }}
+
     {{ $addr_formatted := "" }}{{/* Scoping for maps. */}}
     {{ if $data.address.street | or $data.address.city | or $data.address.region | or $data.address.postcode | or $data.address.country }}
       {{ $addr_formatted = partial "functions/get_address" (dict "root" . "address" $data.address) }}
@@ -100,12 +107,12 @@
       </li>
     {{ end }}
 
-    {{ with $data.directions }}
+<!--     {{ with $data.directions }}
     <li>
       <i class="fa-li fas fa-compass fa-2x" aria-hidden="true"></i>
       <span>{{ . | markdownify | emojify }}</span>
     </li>
-    {{ end }}
+    {{ end }} -->
 
     {{ with $data.office_hours }}
     <li>
