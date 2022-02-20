@@ -41,13 +41,7 @@ h1 {
 // }
 
 
-// Container widths
-$container-max-widths: (
-  sm: 540px,
-  md: 720px,
-  lg: 960px,
-  xl: 960px,
-);
+
 
 // @media only screen and (min-width: 1001px) {
 //   .universal-wrapper {
@@ -58,5 +52,5 @@ $container-max-widths: (
 
 html { 
     // font-size: 21px; 
-    font-size: 18px; 
+    font-size: 20px; 
   } 
