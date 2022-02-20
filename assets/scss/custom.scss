@@ -9,3 +9,54 @@
 .btn-primary {
 	margin-bottom: 0.5em;
 }
+
+/**** OLD *****/
+
+.portrait-title h2 {
+    font-size: 1.5em;
+}
+
+.portrait-title h3 {
+    font-size: 1rem;
+}
+
+h1 {
+  font-size: 2rem;
+}
+// h2 {
+//   margin-top: 1rem;
+//   font-size: 1.5rem;
+// }
+// h3 {
+//   font-weight: 700;
+//   margin-top: 1.5rem;
+//   font-size: 1.25rem;
+// }
+// h4,
+// h5,
+// h6 {
+//   font-weight: 700;
+//   margin-top: 1rem;
+//   font-size: 1rem;
+// }
+
+
+// Container widths
+$container-max-widths: (
+  sm: 540px,
+  md: 720px,
+  lg: 960px,
+  xl: 960px,
+);
+
+// @media only screen and (min-width: 1001px) {
+//   .universal-wrapper {
+//     width: 960px;
+//   }
+// }
+
+
+html { 
+    // font-size: 21px; 
+    font-size: 18px; 
+  } 
