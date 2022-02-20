@@ -11,4 +11,4 @@ design:
   columns: '1'
 ---
 
-"Will be attending the **2022 ICASSP** conference in Belgium."
+Will be attending the **2022 ICASSP** conference in Belgium.
