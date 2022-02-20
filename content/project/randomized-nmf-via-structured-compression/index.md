@@ -1,6 +1,6 @@
 ---
 title: Randomized NMF via Structured Compression
-summary: How to fasten an already fast NMF algorithm
+summary: How to fasten an already fast NMF algorithm.
 tags:
 - Signal Processing
 date: 
