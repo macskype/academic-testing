@@ -282,8 +282,8 @@ collections:
           - {label: "Where's the focal point in the image? Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.", name: focal_point, widget: string, required: false, default: "Smart"}
           - {label: 'Thumbnail Only?', name: preview_only, widget: boolean, default: false, required: false}
   - name: events
-    label: Events
-    label_singular: Event
+    label: Talks
+    label_singular: Talk
     folder: 'content/event'
     path: '{{slug}}/index'
     filter: {field: "cms_exclude"}
@@ -314,8 +314,8 @@ collections:
               - {label: "Brand", value: "fab"}
               - {label: "Academic", value: "ai"}
           - {label: "Icon (see https://wowchemy.com/docs/page-builder/#icons)", name: icon, widget: string, required: false}
-      - {label: "Event", name: "event", widget: "string"}
-      - {label: "Event link", name: "event_url", widget: "string"}
+      - {label: "Talk", name: "event", widget: "string"}
+      - {label: "Talk link", name: "event_url", widget: "string"}
       - {label: "Publish this page on", name: "publishDate", widget: "datetime"}
       - {label: "Markdown slides (reference a deck in 'content/slides/')", name: "slides", widget: "string", required: false}
       - label: "Draft"
@@ -519,18 +519,19 @@ collections:
             widget: "boolean"
             default: false
           - {label: "Body", name: "body", widget: "markdown"}
-      - file: "content/teaching.md"
-        label: "Teaching"
-        name: "teaching"
-        fields:
-          - {label: "Title", name: "title", widget: "string"}
-          - {label: "Publish Date", name: "date", widget: "datetime"}
-          - {label: "Subtitle", name: "subtitle", widget: "string", required: false}
-          - {label: "Summary", name: "summary", widget: "markdown", required: false}
-          - label: "Draft"
-            name: "draft"
-            required: false
-            widget: "boolean"
-            default: false
-          - {label: "Body", name: "body", widget: "markdown"}
+  - name: teaching
+    file: "content/teaching.md"
+    label: "Teaching"
+    name: "teaching"
+    fields:
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "Subtitle", name: "subtitle", widget: "string", required: false}
+      - {label: "Summary", name: "summary", widget: "markdown", required: false}
+      - label: "Draft"
+        name: "draft"
+        required: false
+        widget: "boolean"
+        default: false
+      - {label: "Body", name: "body", widget: "markdown"}
 
