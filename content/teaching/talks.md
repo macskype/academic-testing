@@ -39,3 +39,35 @@ design:
   #   4 = Citation (publication only)
   view: 2
 ---
+
+2021-2022
+
+DPT INFO ET SIGNAL/LISIC, Littoral Côte d'Opale, Calais
+
+License 1 ( Year 1 Undergraduate ) ( in French )
+• bases de données ( Databases )
+
+License 1 ( Year 1 Undergraduate ) ( in French )
+
+• Algorithmique 1 ( Python )
+• Algorithmique 1 ( C++ )
+• Algorithmique 1 ( Python )
+
+DU Tremplin et STAPS
+
+Compétence Numérique ( in French )
+• Traitement de texte ( MS Word )
+• Diaporama ( PowerPoint )
+• Tableur (Excel )
+
+Web development
+• Wordpress
+• HTML, CSS
+
+
+2019-2020
+
+DPT INFO ET SIGNAL/LISIC, Littoral Côte d'Opale, Calais
+
+( Master 1 EIL-Cˆote dOpale) - Big Data and Sensor Calibration
+( Master 1 EIL-Cˆote dOpale) - Machine Learning and Data Analysis
