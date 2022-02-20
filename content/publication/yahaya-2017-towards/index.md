@@ -13,6 +13,8 @@ lastmod: 2022-02-20T08:02:02+01:00
 featured: false
 draft: false
 
+url_pdf: 'https://ejist.uist.edu.mk/wp-content/uploads/2017/08/EJIST_vol2-27-35.pdf'
+
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.

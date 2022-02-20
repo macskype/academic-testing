@@ -17,6 +17,8 @@ lastmod: 2022-02-20T08:02:03+01:00
 featured: false
 draft: false
 
+url_pdf: 'https://hal.archives-ouvertes.fr/hal-03471618/'
+
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.

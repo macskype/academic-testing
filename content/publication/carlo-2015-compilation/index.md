@@ -19,6 +19,8 @@ lastmod: 2022-02-20T08:02:01+01:00
 featured: false
 draft: false
 
+url_pdf: 'https://www.researchgate.net/profile/Carlo-Ciulla-2/publication/288175692_A_compilation_on_the_contribution_of_the_classic-curvature_and_the_intensity-curvature_functional_to_the_study_of_healthy_and_pathological_MRI_of_the_human_brain/links/5e10c53da6fdcc28375684ef/A-compilation-on-the-contribution-of-the-classic-curvature-and-the-intensity-curvature-functional-to-the-study-of-healthy-and-pathological-MRI-of-the-human-brain.pdf'
+
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
