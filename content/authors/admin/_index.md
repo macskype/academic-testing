@@ -14,7 +14,7 @@ organizations:
   url: https://www.univ-littoral.fr/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include matrix factorization/completion, low-rank approximations, random projections and sampling, sensor calibration, big data.
+# bio: My research interests include matrix factorization/completion, low-rank approximations, random projections and sampling, sensor calibration, big data.
 
 # Interests to show in About widget
 interests:
