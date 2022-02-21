@@ -26,7 +26,8 @@ content:
 
   # Contact details (edit or remove options as required)
 
-  email: faroya2011@gmail.com
+  # email: faroya2011@gmail.com
+  email: richtermac@gmail.com
   phone: +33-(0)-66 5 69 69 19
   address:
     street: 50 rue Ferdinand Buisson, B.P. 719
