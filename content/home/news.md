@@ -8,4 +8,4 @@ subtitle: null
 design:
   columns: "1"
 ---
-Some \*\*newer\*\* text here.
+Some **newer** text here.
