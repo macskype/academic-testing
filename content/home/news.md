@@ -1,6 +1,6 @@
 ---
 widget: blank
-widget_id: recent-posts
+widget_id: kjahsdfkjahsdf
 headless: true
 weight: 80
 title: News
@@ -8,4 +8,4 @@ subtitle: null
 design:
   columns: "1"
 ---
-Some new text here.
+Some \*\*newer\*\* text here.
